@@ -4,8 +4,8 @@
 
 This is a group of doujin software for MSX made around 1992-1997.
 
-[Caution]
-Mostly, it is a work made in the last century.
+[Caution] Mostly, it is a work made in the last century.
+
 We do not guarantee or take any responsibility for the operation in the current environment. Please download only those who approve.
 
 
@@ -22,7 +22,8 @@ For commercial use, please contact us.
 
 1992-1997年前後に作った、MSX用の同人ソフト群です。
 
-【注意】概ね、前世紀に作られた作品です。
+【注意】 概ね、前世紀に作られた作品です。
+
 現在の環境においての動作は保障しません、また責任も負いません。ご了承の方のみＤＬください。
 
 2DDディスクイメージです。

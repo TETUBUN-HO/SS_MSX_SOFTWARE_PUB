@@ -13,4 +13,5 @@ Write the license after the file name line.
 However, unauthorized redistribution of the software alone, including modified versions, is not permitted.
 
 For commercial use, please contact us.
+
 ------
